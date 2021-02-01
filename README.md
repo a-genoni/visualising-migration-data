@@ -2,7 +2,7 @@
 Supplementary material of Sander and Genoni (2021): Visualising migration data with circular migration plots.
 
 
-This repository includes 
+# This repository includes 
 1) an annotated R script for creating circular migration plots using the circlize package of Gu
 2) a file including the underlying migration flow data*
 3) three file including images of circular migration plots that were created with the annotated R script 
