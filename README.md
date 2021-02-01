@@ -1,4 +1,4 @@
-# visualising-migration-data
+# 2021-visualising-migration-data
 Supplementary material of Sander and Genoni (2021): Visualising migration data with circular migration plots.
 
 
