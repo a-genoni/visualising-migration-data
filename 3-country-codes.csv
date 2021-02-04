@@ -1,0 +1,204 @@
+iso3,country,region,isor,continent,isono,cregion
+SYC,Seychelles,Eastern Africa,EAFR,Africa,690,Sub-Saharan Africa
+SSD,South Sudan,Eastern Africa,EAFR,Africa,728,Sub-Saharan Africa
+BDI,Burundi,Eastern Africa,EAFR,Africa,108,Sub-Saharan Africa
+COM,Comoros,Eastern Africa,EAFR,Africa,174,Sub-Saharan Africa
+DJI,Djibouti,Eastern Africa,EAFR,Africa,262,Sub-Saharan Africa
+ERI,Eritrea,Eastern Africa,EAFR,Africa,232,Sub-Saharan Africa
+ETH,Ethiopia,Eastern Africa,EAFR,Africa,231,Sub-Saharan Africa
+KEN,Kenya,Eastern Africa,EAFR,Africa,404,Sub-Saharan Africa
+MDG,Madagascar,Eastern Africa,EAFR,Africa,450,Sub-Saharan Africa
+MWI,Malawi,Eastern Africa,EAFR,Africa,454,Sub-Saharan Africa
+MUS,Mauritius,Eastern Africa,EAFR,Africa,480,Sub-Saharan Africa
+MYT,Mayotte,Eastern Africa,EAFR,Africa,175,Sub-Saharan Africa
+MOZ,Mozambique,Eastern Africa,EAFR,Africa,508,Sub-Saharan Africa
+REU,Réunion,Eastern Africa,EAFR,Africa,638,Sub-Saharan Africa
+RWA,Rwanda,Eastern Africa,EAFR,Africa,646,Sub-Saharan Africa
+SOM,Somalia,Eastern Africa,EAFR,Africa,706,Sub-Saharan Africa
+UGA,Uganda,Eastern Africa,EAFR,Africa,800,Sub-Saharan Africa
+TZA,Tanzania,Eastern Africa,EAFR,Africa,834,Sub-Saharan Africa
+ZMB,Zambia,Eastern Africa,EAFR,Africa,894,Sub-Saharan Africa
+ZWE,Zimbabwe,Eastern Africa,EAFR,Africa,716,Sub-Saharan Africa
+AGO,Angola,Middle Africa,MAFR,Africa,24,Sub-Saharan Africa
+CMR,Cameroon,Middle Africa,MAFR,Africa,120,Sub-Saharan Africa
+CAF,Central African Republic,Middle Africa,MAFR,Africa,140,Sub-Saharan Africa
+TCD,Chad,Middle Africa,MAFR,Africa,148,Sub-Saharan Africa
+COG,Republic of Congo,Middle Africa,MAFR,Africa,178,Sub-Saharan Africa
+COD,Democratic Republic of the Congo,Middle Africa,MAFR,Africa,180,Sub-Saharan Africa
+GNQ,Equatorial Guinea,Middle Africa,MAFR,Africa,226,Sub-Saharan Africa
+GAB,Gabon,Middle Africa,MAFR,Africa,266,Sub-Saharan Africa
+STP,Sao Tome and Principe,Middle Africa,MAFR,Africa,678,Sub-Saharan Africa
+DZA,Algeria,Northern Africa,NAFR,Africa,12,Northern Africa
+EGY,Egypt,Northern Africa,NAFR,Africa,818,Northern Africa
+LBY,Libya,Northern Africa,NAFR,Africa,434,Northern Africa
+MAR,Morocco,Northern Africa,NAFR,Africa,504,Northern Africa
+SDN,Sudan,Northern Africa,NAFR,Africa,736,Sub-Saharan Africa
+TUN,Tunisia,Northern Africa,NAFR,Africa,788,Northern Africa
+ESH,Western Sahara,Northern Africa,NAFR,Africa,732,Northern Africa
+BWA,Botswana,Southern Africa,SAFR,Africa,72,Sub-Saharan Africa
+LSO,Lesotho,Southern Africa,SAFR,Africa,426,Sub-Saharan Africa
+NAM,Namibia,Southern Africa,SAFR,Africa,516,Sub-Saharan Africa
+ZAF,South Africa,Southern Africa,SAFR,Africa,710,Sub-Saharan Africa
+SWZ,Swaziland,Southern Africa,SAFR,Africa,748,Sub-Saharan Africa
+BEN,Benin,Western Africa,WAFR,Africa,204,Sub-Saharan Africa
+BFA,Burkina Faso,Western Africa,WAFR,Africa,854,Sub-Saharan Africa
+CPV,Cape Verde,Western Africa,WAFR,Africa,132,Sub-Saharan Africa
+CIV,Côte d'Ivoire,Western Africa,WAFR,Africa,384,Sub-Saharan Africa
+GMB,Gambia,Western Africa,WAFR,Africa,270,Sub-Saharan Africa
+GHA,Ghana,Western Africa,WAFR,Africa,288,Sub-Saharan Africa
+GIN,Guinea,Western Africa,WAFR,Africa,324,Sub-Saharan Africa
+GNB,Guinea-Bissau,Western Africa,WAFR,Africa,624,Sub-Saharan Africa
+LBR,Liberia,Western Africa,WAFR,Africa,430,Sub-Saharan Africa
+MLI,Mali,Western Africa,WAFR,Africa,466,Sub-Saharan Africa
+MRT,Mauritania,Western Africa,WAFR,Africa,478,Sub-Saharan Africa
+NER,Niger,Western Africa,WAFR,Africa,562,Sub-Saharan Africa
+NGA,Nigeria,Western Africa,WAFR,Africa,566,Sub-Saharan Africa
+SEN,Senegal,Western Africa,WAFR,Africa,686,Sub-Saharan Africa
+SLE,Sierra Leone,Western Africa,WAFR,Africa,694,Sub-Saharan Africa
+TGO,Togo,Western Africa,WAFR,Africa,768,Sub-Saharan Africa
+CHN,China,Eastern Asia,EAS,Asia,156,Eastern Asia
+HKG,Hong Kong,Eastern Asia,EAS,Asia,344,Eastern Asia
+MAC,Macao,Eastern Asia,EAS,Asia,446,Eastern Asia
+PRK,North Korea,Eastern Asia,EAS,Asia,408,Eastern Asia
+JPN,Japan,Eastern Asia,EAS,Asia,392,Eastern Asia
+MNG,Mongolia,Eastern Asia,EAS,Asia,496,Eastern Asia
+TWN,Taiwan,Eastern Asia,EAS,Asia,158,Eastern Asia
+KOR,South Korea,Eastern Asia,EAS,Asia,410,Eastern Asia
+KAZ,Kazakhstan,Central Asia,CAS,Asia,398,Post-Soviet States
+KGZ,Kyrgyzstan,Central Asia,CAS,Asia,417,Post-Soviet States
+TJK,Tajikistan,Central Asia,CAS,Asia,762,Post-Soviet States
+TKM,Turkmenistan,Central Asia,CAS,Asia,795,Post-Soviet States
+UZB,Uzbekistan,Central Asia,CAS,Asia,860,Post-Soviet States
+AFG,Afghanistan,Southern Asia,SAS,Asia,4,Southern Asia
+BGD,Bangladesh,Southern Asia,SAS,Asia,50,Southern Asia
+BTN,Bhutan,Southern Asia,SAS,Asia,64,Southern Asia
+IND,India,Southern Asia,SAS,Asia,356,Southern Asia
+IRN,Iran,Southern Asia,SAS,Asia,364,Southern Asia
+MDV,Maldives,Southern Asia,SAS,Asia,462,Southern Asia
+NPL,Nepal,Southern Asia,SAS,Asia,524,Southern Asia
+PAK,Pakistan,Southern Asia,SAS,Asia,586,Southern Asia
+LKA,Sri Lanka,Southern Asia,SAS,Asia,144,Southern Asia
+BRN,Brunei,South-Eastern Asia,SEAS,Asia,96,Southeast Asia and Oceania
+KHM,Cambodia,South-Eastern Asia,SEAS,Asia,116,Southeast Asia and Oceania
+IDN,Indonesia,South-Eastern Asia,SEAS,Asia,360,Southeast Asia and Oceania
+LAO,Laos,South-Eastern Asia,SEAS,Asia,418,Southeast Asia and Oceania
+MYS,Malaysia,South-Eastern Asia,SEAS,Asia,458,Southeast Asia and Oceania
+MMR,Myanmar,South-Eastern Asia,SEAS,Asia,104,Southeast Asia and Oceania
+PHL,Philippines,South-Eastern Asia,SEAS,Asia,608,Southeast Asia and Oceania
+SGP,Singapore,South-Eastern Asia,SEAS,Asia,702,Southeast Asia and Oceania
+THA,Thailand,South-Eastern Asia,SEAS,Asia,764,Southeast Asia and Oceania
+TLS,East Timor,South-Eastern Asia,SEAS,Asia,626,Southeast Asia and Oceania
+VNM,Vietnam,South-Eastern Asia,SEAS,Asia,704,Southeast Asia and Oceania
+ARM,Armenia,Western Asia,WAS,Asia,51,Post-Soviet States
+AZE,Azerbaijan,Western Asia,WAS,Asia,31,Post-Soviet States
+BHR,Bahrain,Western Asia,WAS,Asia,48,Arabian Peninsula
+CYP,Cyprus,Western Asia,WAS,Europe,196,Rest of Western Asia
+GEO,Georgia,Western Asia,WAS,Asia,268,Post-Soviet States
+IRQ,Iraq,Western Asia,WAS,Asia,368,Arabian Peninsula
+ISR,Israel,Western Asia,WAS,Asia,376,Rest of Western Asia
+JOR,Jordan,Western Asia,WAS,Asia,400,Arabian Peninsula
+KWT,Kuwait,Western Asia,WAS,Asia,414,Arabian Peninsula
+LBN,Lebanon,Western Asia,WAS,Asia,422,Rest of Western Asia
+PSE,Palestina,Western Asia,WAS,Asia,275,Rest of Western Asia
+OMN,Oman,Western Asia,WAS,Asia,512,Arabian Peninsula
+QAT,Qatar,Western Asia,WAS,Asia,634,Arabian Peninsula
+SAU,Saudi Arabia,Western Asia,WAS,Asia,682,Arabian Peninsula
+SYR,Syria,Western Asia,WAS,Asia,760,Rest of Western Asia
+TUR,Turkey,Western Asia,WAS,Europe,792,Rest of Western Asia
+ARE,United Arab Emirates,Western Asia,WAS,Asia,784,Arabian Peninsula
+YEM,Yemen,Western Asia,WAS,Asia,887,Arabian Peninsula
+BLR,Belarus,Eastern Europe,EEUR,Europe,112,Post-Soviet States
+BGR,Bulgaria,Eastern Europe,EEUR,Europe,100,Post-Soviet States
+CZE,Czech Republic,Eastern Europe,EEUR,Europe,203,Rest of Eastern Europe
+HUN,Hungary,Eastern Europe,EEUR,Europe,348,Post-Soviet States
+POL,Poland,Eastern Europe,EEUR,Europe,616,Rest of Eastern Europe
+MDA,Moldova,Eastern Europe,EEUR,Europe,498,Post-Soviet States
+ROU,Romania,Eastern Europe,EEUR,Europe,642,Rest of Eastern Europe
+RUS,Russia,Eastern Europe,EEUR,Asia,643,Post-Soviet States
+SVK,Slovakia,Eastern Europe,EEUR,Europe,703,Rest of Eastern Europe
+UKR,Ukraine,Eastern Europe,EEUR,Europe,804,Post-Soviet States
+DNK,Denmark,Northern Europe,NEUR,Europe,208,Northern and Western Europe
+EST,Estonia,Northern Europe,NEUR,Europe,233,Post-Soviet States
+FIN,Finland,Northern Europe,NEUR,Europe,246,Northern and Western Europe
+ISL,Iceland,Northern Europe,NEUR,Europe,352,Northern and Western Europe
+IRL,Ireland,Northern Europe,NEUR,Europe,372,Northern and Western Europe
+LVA,Latvia,Northern Europe,NEUR,Europe,428,Northern and Western Europe
+LTU,Lithuania,Northern Europe,NEUR,Europe,440,Northern and Western Europe
+NOR,Norway,Northern Europe,NEUR,Europe,578,Northern and Western Europe
+SWE,Sweden,Northern Europe,NEUR,Europe,752,Northern and Western Europe
+GBR,United Kingdom,Northern Europe,NEUR,Europe,826,Northern and Western Europe
+ALB,Albania,Southern Europe,SEUR,Europe,8,Southern Europe
+BIH,Bosnia and Herzegovina,Southern Europe,SEUR,Europe,70,Southern Europe
+HRV,Croatia,Southern Europe,SEUR,Europe,191,Southern Europe
+GRC,Greece,Southern Europe,SEUR,Europe,300,Southern Europe
+ITA,Italy,Southern Europe,SEUR,Europe,380,Southern Europe
+MLT,Malta,Southern Europe,SEUR,Europe,470,Southern Europe
+MNE,Montenegro,Southern Europe,SEUR,Europe,499,Southern Europe
+PRT,Portugal,Southern Europe,SEUR,Europe,620,Southern Europe
+SRB,Serbia,Southern Europe,SEUR,Europe,688,Southern Europe
+SCG,Serbia and Montenegro,Southern Europe,SEUR,Europe,891,Southern Europe
+SVN,Slovenia,Southern Europe,SEUR,Europe,705,Southern Europe
+ESP,Spain,Southern Europe,SEUR,Europe,724,Southern Europe
+MKD,Macedonia,Southern Europe,SEUR,Europe,807,Southern Europe
+AUT,Austria,Western Europe,WEUR,Europe,40,Northern and Western Europe
+BEL,Belgium,Western Europe,WEUR,Europe,56,Northern and Western Europe
+CHI,Channel Islands,Western Europe,WEUR,Europe,830,Northern and Western Europe
+FRA,France,Western Europe,WEUR,Europe,250,Northern and Western Europe
+DEU,Germany,Western Europe,WEUR,Europe,276,Northern and Western Europe
+LUX,Luxembourg,Western Europe,WEUR,Europe,442,Northern and Western Europe
+NLD,Netherlands,Western Europe,WEUR,Europe,528,Northern and Western Europe
+CHE,Switzerland,Western Europe,WEUR,Europe,756,Northern and Western Europe
+ATG,Antigua and Barbuda,Caribbean,CAR,America,028,Latin America and Caribbean
+ABW,Aruba,Caribbean,CAR,America,533,Latin America and Caribbean
+BHS,Bahamas,Caribbean,CAR,America,44,Latin America and Caribbean
+BRB,Barbados,Caribbean,CAR,America,52,Latin America and Caribbean
+CUB,Cuba,Caribbean,CAR,America,192,Latin America and Caribbean
+CUW,Curacao,Caribbean,CAR,America,531,Latin America and Caribbean
+DOM,Dominican Republic,Caribbean,CAR,America,214,Latin America and Caribbean
+GRD,Grenada,Caribbean,CAR,America,308,Latin America and Caribbean
+GLP,Guadeloupe,Caribbean,CAR,America,312,Latin America and Caribbean
+HTI,Haiti,Caribbean,CAR,America,332,Latin America and Caribbean
+JAM,Jamaica,Caribbean,CAR,America,388,Latin America and Caribbean
+MTQ,Martinique,Caribbean,CAR,America,474,Latin America and Caribbean
+ANT,Netherlands Antilles,Caribbean,CAR,America,530,Latin America and Caribbean
+PRI,Puerto Rico,Caribbean,CAR,America,630,Latin America and Caribbean
+LCA,Saint Lucia,Caribbean,CAR,America,662,Latin America and Caribbean
+VCT,Saint Vincent and the Grenadines,Caribbean,CAR,America,670,Latin America and Caribbean
+TTO,Trinidad and Tobago,Caribbean,CAR,America,780,Latin America and Caribbean
+VIR,Virgin Islands,Caribbean,CAR,America,850,Latin America and Caribbean
+BLZ,Belize,Central America,CAM,America,84,Latin America and Caribbean
+CRI,Costa Rica,Central America,CAM,America,188,Latin America and Caribbean
+SLV,El Salvador,Central America,CAM,America,222,Latin America and Caribbean
+GTM,Guatemala,Central America,CAM,America,320,Latin America and Caribbean
+HND,Honduras,Central America,CAM,America,340,Latin America and Caribbean
+MEX,Mexico,Central America,CAM,America,484,Latin America and Caribbean
+NIC,Nicaragua,Central America,CAM,America,558,Latin America and Caribbean
+PAN,Panama,Central America,CAM,America,591,Latin America and Caribbean
+ARG,Argentina,South America,SAM,America,32,Latin America and Caribbean
+BOL,Bolivia,South America,SAM,America,68,Latin America and Caribbean
+BRA,Brazil,South America,SAM,America,76,Latin America and Caribbean
+CHL,Chile,South America,SAM,America,152,Latin America and Caribbean
+COL,Colombia,South America,SAM,America,170,Latin America and Caribbean
+ECU,Ecuador,South America,SAM,America,218,Latin America and Caribbean
+GUF,French Guiana,South America,SAM,America,254,Latin America and Caribbean
+GUY,Guyana,South America,SAM,America,328,Latin America and Caribbean
+PRY,Paraguay,South America,SAM,America,600,Latin America and Caribbean
+PER,Peru,South America,SAM,America,604,Latin America and Caribbean
+SUR,Suriname,South America,SAM,America,740,Latin America and Caribbean
+URY,Uruguay,South America,SAM,America,858,Latin America and Caribbean
+VEN,Venezuela,South America,SAM,America,862,Latin America and Caribbean
+CAN,Canada,Northern America,NAM,America,124,Northern America
+USA,United States,Northern America,NAM,America,840,Northern America
+AUS,Australia,Australia-New Zealand,ANZ,Pacific,36,Southeast Asia and Oceania
+NZL,New Zealand,Australia-New Zealand,ANZ,Pacific,554,Southeast Asia and Oceania
+FJI,Fiji,Oceania,OCE,Pacific,242,Southeast Asia and Oceania
+NCL,New Caledonia,Oceania,OCE,Pacific,540,Southeast Asia and Oceania
+PNG,Papua New Guinea,Oceania,OCE,Pacific,598,Southeast Asia and Oceania
+SLB,Solomon Islands,Oceania,OCE,Pacific,90,Southeast Asia and Oceania
+VUT,Vanuatu,Oceania,OCE,Pacific,548,Southeast Asia and Oceania
+GUM,Guam,Oceania,OCE,Pacific,316,Southeast Asia and Oceania
+FSM,Micronesia,Oceania,OCE,Pacific,583,Southeast Asia and Oceania
+PYF,French Polynesia,Oceania,OCE,Pacific,258,Southeast Asia and Oceania
+WSM,Samoa,Oceania,OCE,Pacific,882,Southeast Asia and Oceania
+TON,Tonga,Oceania,OCE,Pacific,776,Southeast Asia and Oceania
+KIR,Kiribati,Oceania,OCE,Pacific,296,Southeast Asia and Oceania
