@@ -3,10 +3,10 @@ Supplementary material of Sander and Genoni (2023): Visualising migration data w
 
 
 This repository includes 
-1) an annotated R script for creating circular migration plots using the circlize package of Gu
-2) an excel file including the underlying migration flow data*
-3) a csv.-file including country codes for flow aggregation
-4) three .svg-files including images of circular migration plots that were created for the article with the annotated R script 
+1) an annotated R script for creating circular migration plots using the circlize package of Gu: "visualising migration data with circular plots.R"
+2) an excel file including the underlying migration flow data*: "data-abel 2019-v6.xlsx"
+3) a csv.-file including country codes for flow aggregation: "country codes.csv"
+4) three .svg-files including images of circular migration plots that were created for the article with the annotated R script: Figures 4 to 6
 
 
 
