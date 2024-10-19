@@ -1,5 +1,5 @@
 # visualising-migration-data
-Supplementary material of Sander and Genoni (2023): Visualising migration data with circular migration plots.
+Supplementary material of Sander and Genoni (2024): Data visualisation in migration research: the case of circular migration plots.
 
 
 This repository includes 
